@@ -1,6 +1,6 @@
 import random
 
-# initialising an array
+# Initialising an array
 array = []
 
 # iterating from 1 to 1000 using for loop
